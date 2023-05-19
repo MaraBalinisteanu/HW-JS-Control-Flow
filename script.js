@@ -39,7 +39,8 @@ switch (auto) {
     console.log(Math.round((28 * capacitate) / 200));
     break;
   }
-  case 'vehicul cu tractiune mecanica': {
+  case 'vehicul cu tractiune mecanica': 
+  case 'vehicule cu tractiune mecanica': {
     console.log(Math.round((34 * capacitate) / 200));
     break;
   }
